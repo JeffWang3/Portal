@@ -1,5 +1,4 @@
->> cd codes
->> java -jar Portal.jar
-
-# Team members: Yuanpei Zhao, Yongcheng Wang, Nabo Ma
-# I deleted assets.jar and jme3-testdata.jar because their sizes are too large to be uploaded onto github
+# Portal
+### credit to "Portal II" by Valve software and JMonkey Engine
+### Team members: Yuanpei Zhao, Yongcheng Wang, Nabo Ma
+### run the game with >> java -jar Portal.jar
